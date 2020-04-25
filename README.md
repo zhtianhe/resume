@@ -2,7 +2,7 @@
     张天合 个人简历 C/GO 、系统及数据库开发
 </p>
 
-张天合
+张天合 <kbd>[点击此此处跳转网页版](https://github.com/zhtianhe/resume/tree/master)</kbd>
 ***
 ##  联系方式
 ---
